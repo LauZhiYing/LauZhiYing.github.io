@@ -27,5 +27,16 @@
   - Part 1 (Basic Design)
   - Part 2 (Advanced Features)
   - Presentation
+  - Demo
 ## Programming Technique I
+- Lab 1
+- Lab 2
+- Lab 3
+- Lab 4
+- Assignment 1
+- Assignment 2
+- Assignment 3
 ## Integrity and Anti-Corruption Course
+- Post-formative test
+- Video PSA
+- Case Study Poster
