@@ -21,7 +21,7 @@
   - Part 2 (Advanced Features)
   - Presentation
   - Demo
-## [Programming Technique I] (https://github.com/LauZhiYing/Programming-Technique-I)
+## [Programming Technique I](https://github.com/LauZhiYing/Programming-Technique-I)
 - Lab 1
 - Lab 2
 - Lab 3
