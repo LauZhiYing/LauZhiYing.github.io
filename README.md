@@ -1,5 +1,5 @@
 # Courses
-## Technology and Information System
+## [Technology and Information System](https://github.com/LauZhiYing/Technology-and-Information-System)
 - Assignment 1 (Format: Poster)
 - Assignment 2 (Format: Video) 
 - Assignment 3 (Format: Report) 
