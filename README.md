@@ -7,7 +7,7 @@
 - E-portfolio (Github)
 - PC Assemble (Quiz)
 - Design Thinking (Low Fidelity Prototype)
-## [Discrete Structure](https://github.com/LauZhiYing/Discrete-Structure/edit/main/README.md)
+## [Discrete Structure](https://github.com/LauZhiYing/Discrete-Structure/blob/main/README.md)
 - Assignment 1
 - Assignment 2
 - Assignment 3
