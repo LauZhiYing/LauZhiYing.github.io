@@ -7,7 +7,7 @@
 - E-portfolio (Github)
 - PC Assemble (Quiz)
 - Design Thinking (Low Fidelity Prototype)
-## Discrete Structure
+## [Discrete Structure](https://github.com/LauZhiYing/Discrete-Structure/edit/main/README.md)
 - Quiz 1
 - Quiz 2
 - Quiz 3
