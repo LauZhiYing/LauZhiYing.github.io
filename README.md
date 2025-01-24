@@ -8,10 +8,6 @@
 - PC Assemble (Quiz)
 - Design Thinking (Low Fidelity Prototype)
 ## [Discrete Structure](https://github.com/LauZhiYing/Discrete-Structure/edit/main/README.md)
-- Quiz 1
-- Quiz 2
-- Quiz 3
-- Quiz 4
 - Assignment 1
 - Assignment 2
 - Assignment 3
@@ -20,15 +16,12 @@
 - Lab 1
 - Lab 2
 - Lab 3
-- Quiz 1
-- Quiz 2
-- Quiz 3
 - Project
   - Part 1 (Basic Design)
   - Part 2 (Advanced Features)
   - Presentation
   - Demo
-## Programming Technique I
+## [Programming Technique I] (https://github.com/LauZhiYing/Programming-Technique-I)
 - Lab 1
 - Lab 2
 - Lab 3
