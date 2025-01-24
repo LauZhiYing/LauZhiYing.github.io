@@ -29,7 +29,7 @@
 - Assignment 1
 - Assignment 2
 - Assignment 3
-## Integrity and Anti-Corruption Course
+## [Integrity and Anti-Corruption Course](https://github.com/LauZhiYing/Integrity-And-Anti-Corruption-Course/blob/main/README.md)
 - Post-formative test
 - Video PSA
 - Case Study Poster
