@@ -16,7 +16,7 @@
 - Assignment 2
 - Assignment 3
 - Assignment 4
-## Digital Logic
+## [Digital Logic](https://github.com/LauZhiYing/Digital-Logic/tree/main)
 - Lab 1
 - Lab 2
 - Lab 3
