@@ -1,12 +1,12 @@
 # Courses
 ## [Technology and Information System](https://github.com/LauZhiYing/Technology-and-Information-System)
 - [Assignment 1 (Format: Poster)](https://github.com/LauZhiYing/Technology-and-Information-System?tab=readme-ov-file#assignment-1-format-poster)
-- Assignment 2 (Format: Video) 
-- Assignment 3 (Format: Report) 
-- Assignment 4 (Format: Newsletter)
-- E-portfolio (Github)
-- PC Assemble (Quiz)
-- Design Thinking (Low Fidelity Prototype)
+- [Assignment 2 (Format: Video)](https://github.com/LauZhiYing/Technology-and-Information-System?tab=readme-ov-file#%EF%B8%8Fassignment-2-format-video) 
+- [Assignment 3 (Format: Report)](https://github.com/LauZhiYing/Technology-and-Information-System?tab=readme-ov-file#assignment-3-format-report) 
+- [Assignment 4 (Format: Newsletter)](https://github.com/LauZhiYing/Technology-and-Information-System?tab=readme-ov-file#assignment-4-format-newsletter)
+- [E-portfolio (Github)](https://github.com/LauZhiYing/Technology-and-Information-System?tab=readme-ov-file#e-portfolio-github)
+- [PC Assemble (Quiz)](https://github.com/LauZhiYing/Technology-and-Information-System?tab=readme-ov-file#%EF%B8%8Fpc-assemble-quiz)
+- [Design Thinking (Low Fidelity Prototype)](https://github.com/LauZhiYing/Technology-and-Information-System?tab=readme-ov-file#design-thinking-low-fidelity-prototype)
 ## [Discrete Structure](https://github.com/LauZhiYing/Discrete-Structure/blob/main/README.md)
 - Assignment 1
 - Assignment 2
